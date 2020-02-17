@@ -1,4 +1,5 @@
 access_key_id = ""
 secret_access_key = ""
+region = "us-east-1"
 addPhoto = "./images/[filename]"
 comparePhoto = "./images/[filename]"
